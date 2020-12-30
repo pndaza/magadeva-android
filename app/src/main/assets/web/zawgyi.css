@@ -1,0 +1,8 @@
+@font-face {
+     font-family: Zawgyi-One;
+     src: url('Zawgyi-One.ttf');
+}
+body {
+	font-family: "Zawgyi-One";
+	line-height: 2em;
+}

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Maghadeva</string>
+    <string name="app_name_mm">မဃဒေဝလင်္ကာသစ်</string>
+    <string name="title_home">Home</string>
+    <string name="title_bookmark">Bookmark</string>
+    <string name="title_search">Search</string>
+    <string name="title_setting">Setting</string>
+    <string name="goto_page">စာမျက်နှာသို့</string>
+    <string name="goto_cancel">မလုပ်တော့</string>
+    <string name="goto_go">သွားမယ်</string>
+    <string name="bookmark_mm">မှတ်သားချက်များ</string>
+    <string name="bookmark_empty">သိမ်းမှတ်ထားသည်များ\nမရှိသေးပါ။</string>
+    <string name="title_clearAll">ClearAll</string>
+    <string name="settingTitle">အပြင်အဆင်</string>
+    <string name="fontSize">စာလုံးအရွယ်အစား</string>
+    <string name="fontSizeSmall">အသေး</string>
+    <string name="fontSizeNormal">အလတ်</string>
+    <string name="fontSizeLarge">အကြီး</string>
+    <string name="theme">အရောင်အသွင်အပြင်</string>
+    <string name="themeDay">နေ့ (နောက်ခံအဖြူ စာလုံးမဲ)</string>
+    <string name="themeNight">ည (နောက်ခံအမဲ စာလုံးဖြူ)</string>
+</resources>

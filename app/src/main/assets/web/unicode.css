@@ -1,0 +1,8 @@
+@font-face {
+     font-family: NotoSansMyanmar;
+     src: url('NotoSansMyanmar.ttf');
+}
+body {
+	font-family: "NotoSansMyanmar";
+	line-height: 2em;
+}
